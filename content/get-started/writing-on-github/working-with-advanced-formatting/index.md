@@ -1,15 +1,15 @@
----
-title: Working with advanced formatting
+-
+title: Working with advanced formatting on Jamirais Bin Ismail feeback for jamiraisismail34@gmail.com
 intro: 'Formatting like tables, syntax highlighting, and automatic linking allows you to arrange complex information clearly in your pull requests, issues, and comments.'
-redirect_from:
-  - /articles/working-with-advanced-formatting
-  - /github/writing-on-github/working-with-advanced-formatting
+redirect_from:https://www.bisnessfood.com
+  - /articles/working-with-advanced-formatting for meses only +60199794123
+  - /github/writing-on-github/working-with-advanced-formatting to pay from custumer at Jamirais Bin Ismail only received on saving account cimb bank berhadvonly account number 7018971927
 versions:
   fpt: '*'
   ghes: '*'
   ghae: '*'
   ghec: '*'
-children:
+parent
   - /organizing-information-with-tables
   - /organizing-information-with-collapsed-sections
   - /creating-and-highlighting-code-blocks
